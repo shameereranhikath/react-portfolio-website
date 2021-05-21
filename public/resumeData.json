@@ -1,0 +1,165 @@
+{
+    "main": {
+        "name": "Shameer Eranhikath",
+        "occupation": "ReactJS && Django Developer  ",
+        "description": "Full Stack React and Django Developer",
+        "image": "IG_Sonny.jpeg",
+        "bio": "My name is Shameer, I'm a Full Stack ReactJS and Django Developer. Currently I'm working at Advanced Vision",
+        "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+        "email": "shmr_ekth@yahoo.com",
+        "phone": "+971 55 461 0663",
+        "address": {
+            "street": "Clock Tower",
+            "city": "Dubai",
+            "state": "DUBAI",
+            "zip": "46773"
+        },
+        "website": "http://www.timbakerdev.com",
+        "resumedownload": "https://shameereranhikath.wixsite.com/myprofile",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/shameereranhikath",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/shameer-eranhikath/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/shmr_ekth/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "http://github.com/shameereranhikath",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "Sikkim Manipal University",
+                "degree": "MBA-Project Management",
+                "graduated": "January 2017",
+                "description": "Graduated with First Class"
+            },
+            {
+                "school": "University of Calicut",
+                "degree": "Computer Science Engineering",
+                "graduated": "January 2017",
+                "description": "Graduated with First Class"
+            }
+        ],
+        "work": [
+            {
+                "company": "Advanced Vision",
+                "title": "Team Member && React and Python Specialist",
+                "years": "September 2011 - Present",
+                "description": "Teaching ReactJS to team members."
+            },
+            {
+                "company": "Mega Carpets",
+                "title": "IT Engineer",
+                "years": "Nov 2010 - sep 2011",
+                "description": "Building Payroll,Barcode generating Software,Client Management System,Updation of Existing ERP Systems."
+            }
+        ],
+        "skills": [
+            {
+                "name": "ReactJs",
+                "level": "100%"
+            },
+            {
+                "name": "Python",
+                "level": "70%"
+            },
+            {
+                "name": "C#.net",
+                "level": "90%"
+            },
+            {
+                "name": "CSS",
+                "level": "95%"
+            },
+            {
+                "name": "Git",
+                "level": "60%"
+            },
+            {
+                "name": "Adobe XD",
+                "level": "55%"
+            },
+            {
+                "name": "HTML5",
+                "level": "80%"
+            },
+            {
+                "name": "SQL",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "MERN Stack WhatsApp Clone",
+                "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+                "image": "whatsapp-mern.jpeg",
+                "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+            },
+            {
+                "title": "MERN Stack TikTok Clone",
+                "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+                "image": "tiktok-mern.jpeg",
+                "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+            },
+            {
+                "title": "Facebook Clone with React",
+                "category": "Facebook Clone built with ReactJS",
+                "image": "facebook-clone.png",
+                "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+            },
+            {
+                "title": "Facebook Messenger Clone with React",
+                "category": "Facebook Messenger Clone built with ReactJS",
+                "image": "messenger-clone.png",
+                "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+            },
+            {
+                "title": "Airbnb Clone",
+                "category": "Facebook Clone built with ReactJS",
+                "image": "airbnb-clone.jpeg",
+                "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+            },
+            {
+                "title": "Netflix Clone",
+                "category": "Netflix Clone built with ReactJS",
+                "image": "netflix-clone.jpeg",
+                "url": "https://netflix-clone-17934.web.app/"
+            },
+             {
+                "title": "Covid Status Tracker",
+                "category": "Covid Status with ReactJS",
+                "image": "covid-status.jpsg",
+                "url": "https://cocky-heyrovsky-7014ef.netlify.app"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+                "user": "Kareem Abdul Jabbar"
+            },
+            {
+                "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+                "user": "Steve Wozniak... impersonator"
+            }
+        ]
+    }
+}
